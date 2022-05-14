@@ -22,7 +22,3 @@ My name is Murilo Camargo.
    <a href="https://www.linkedin.com/in/mukmargo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge%22%3E">
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-mukmargo&style=flat-square&color=blue" alt=""/>
-</div>
