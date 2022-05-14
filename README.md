@@ -19,7 +19,7 @@ My name is Murilo Camargo.
 
 ## Connect with me:
 <div id"Connect" align="center">
-   <a href="linkedin.com/in/murilo-camargo-marques-94a46b1a4">
+   <a href="www.linkedin.com/in/mukmargo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge%22%3E">
 </div>
 
