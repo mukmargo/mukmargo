@@ -19,8 +19,8 @@ My name is Murilo Camargo.
 
 ## Connect with me:
 <div id"Connect" align="center">
-   <a href="https://www.linkedin.com/in/gabrielmossini/%22%3E
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge%22%3E
+   <a href="linkedin.com/in/murilo-camargo-marques-94a46b1a4">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge%22%3E>
 </div>
 
 <div align="center">
